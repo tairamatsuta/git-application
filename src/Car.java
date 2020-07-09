@@ -1,6 +1,6 @@
 
 public class Car {
-
+	
 	private int speeds;
 
 	public int getSpeeds() {
@@ -10,6 +10,5 @@ public class Car {
 	public void setSpeeds(int speeds) {
 		this.speeds = speeds;
 	}
-	
 	
 }
