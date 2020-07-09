@@ -1,14 +1,14 @@
 
 public class Car {
 
-	private int speed;
+	private int speeds;
 
-	public int getSpeed() {
-		return speed;
+	public int getSpeeds() {
+		return speeds;
 	}
 
-	public void setSpeed(int speed) {
-		this.speed = speed;
+	public void setSpeeds(int speeds) {
+		this.speeds = speeds;
 	}
 	
 	
